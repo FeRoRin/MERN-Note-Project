@@ -39,17 +39,20 @@ Ensure you have [Node.js](https://nodejs.org) and [npm](https://www.npmjs.com) i
    
 **This will install the necessary packages for the project:**
 
-bcrypt: For password hashing.
-cookie-parser: For parsing cookies in Express.
-cors: For enabling CORS.
-date-fns: For date manipulation.
-dotenv: For environment variables.
-express: Web framework for Node.js.
-express-async-handler: For handling async errors.
-mongoose: MongoDB object modeling tool.
-mongoose-sequence: For auto-incrementing fields.
-uuid: For generating unique IDs.
-nodemon (dev only): For auto-reloading during development.
+## Dependencies
+
+1. **bcrypt**: For password hashing.
+2. **cookie-parser**: For parsing cookies in Express.
+3. **cors**: For enabling CORS.
+4. **date-fns**: For date manipulation.
+5. **dotenv**: For environment variables.
+6. **express**: Web framework for Node.js.
+7. **express-async-handler**: For handling async errors.
+8. **mongoose**: MongoDB object modeling tool.
+9. **mongoose-sequence**: For auto-incrementing fields.
+10. **uuid**: For generating unique IDs.
+11. **nodemon** (dev only): For auto-reloading during development.
+
 
 4. **Clone the Repository:**
    ```bash
