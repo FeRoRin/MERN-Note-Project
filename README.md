@@ -1,4 +1,4 @@
-# MERN Note Project
+# MERN Note Project [In Progress]
 
 ## Overview
 
